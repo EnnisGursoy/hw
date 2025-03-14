@@ -1,6 +1,6 @@
 import numpy as np
 
-# Task 1: Boolean Masks
+# 1
 # Generate 100 random numbers
 np.random.seed(42)
 random_numbers = np.random.randint(1, 100, 100)
